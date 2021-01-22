@@ -1,0 +1,39 @@
+{
+  "clients": [
+    {
+      "name": "nick",
+      "telephone": "4335555",
+      "mail": "nick.com",
+      "company": "incluit",
+      "id": 1
+    },
+    {
+      "name": "javier",
+      "telephone": "234234",
+      "mail": "javier@hotmail.com",
+      "company": "periodic",
+      "id": 2
+    },
+    {
+      "name": "javier leonardo perea",
+      "telephone": "433828",
+      "mail": "javier@gmail.com",
+      "company": "inlcuit",
+      "id": 3
+    },
+    {
+      "name": "pedro",
+      "telephone": "154561340",
+      "mail": "pedrolperea.com",
+      "company": "contador",
+      "id": 4
+    },
+    {
+      "name": "fany",
+      "telephone": "533937",
+      "mail": "fanyzar.com",
+      "company": "jardin",
+      "id": 5
+    }
+  ]
+}
